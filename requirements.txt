@@ -1,0 +1,5 @@
+pandas
+panel
+bokeh
+hvplot
+numpy
