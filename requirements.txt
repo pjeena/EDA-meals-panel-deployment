@@ -1,4 +1,5 @@
 pandas
+notebook
 panel
 bokeh
 hvplot
